@@ -14,7 +14,7 @@ body {
 }
 
 .background {
-      background: url("images/background.jpg");
+      background: url("images/page_bg.jpg");
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-size: cover;
@@ -135,5 +135,8 @@ i {
 }
 
 .social-media-button {
-      width: 50px;
+      width: 40px;
+      height: auto;
+      max-width: 40px;
+      max-height: 40px;
 }
