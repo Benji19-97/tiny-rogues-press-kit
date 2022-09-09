@@ -133,3 +133,7 @@ i {
       object-fit: contain;
       padding: 1em;
 }
+
+.social-media-button {
+      width: 50px;
+}
